@@ -9,6 +9,8 @@ Based on https://github.com/mbebenita/aomanalyzer.
 [Sample ivf file](https://people.xiph.org/~mbebenita/analyzer/output.ivf)
  
  
- ![howto](https://github.com/phoenixstar7/aomav1analyzer/master/img/aomanalyzer.gif)
+ ![howto](https://github.com/phoenixstar7/aomav1analyzer/blob/master/img/aomanalyzer.gif)
+ 
+ 
  
  
